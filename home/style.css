@@ -260,8 +260,7 @@ img {vertical-align: middle;}
   
   .movie-list-item-button {
     padding: 10px;
-    /* background-color: #4dbf00; */
-    background-color: transparent;
+    background-color: #4dbf00;
     color: white;
     border-radius: 10px;
     outline:white;
